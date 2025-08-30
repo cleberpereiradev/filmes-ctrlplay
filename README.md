@@ -22,14 +22,6 @@ $ yarn install
 
 # Start the project
 $ yarn start
-```
-
-# Filmes
-
-
-Deploy: https://filmes-sujeito.netlify.app/
-
-<p align="center">Made with 💜 by Viviane Oliveira</p>
 
 
 
